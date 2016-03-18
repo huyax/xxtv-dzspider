@@ -1,0 +1,1 @@
+insert into dz(author,content,c_create_date,source_postdate,comment_count,like_count) VALUES (%s,%s,%s,%s,%s,%s)
